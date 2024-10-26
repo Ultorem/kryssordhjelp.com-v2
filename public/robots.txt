@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://norsk-kryssord.netlify.app/sitemap.xml
+
+# Crawl-delay: 10
+# Allow crawling of all content
+Disallow:
