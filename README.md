@@ -1,6 +1,6 @@
 # Norsk Kryssord Ordbok 🎯
 
-En moderne og brukervennlig kryssordordbok med integrert sudoku-spill og kryssordverktøy.
+En moderne og brukervennlig kryssordordbok med integrert sudoku-spill og kryssordverktøy :)
 
 ## Funksjoner 🌟
 
